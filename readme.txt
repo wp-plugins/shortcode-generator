@@ -30,14 +30,14 @@ Features:
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload the `shortcode-generator` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Click on the ShortCodes button on the menu to generate new shortcodes
 
 
 == Frequently Asked Questions ==
 
-= How can you generate a shortcode?=
+= How can you generate a shortcode? =
 
 Once the plugin is active, go to the ShortCodes button on the left menu. Select the type of shortcode you would like, and click Add. Once created, you will be given a shortcode to place in your pages, posts, or template files.
 
