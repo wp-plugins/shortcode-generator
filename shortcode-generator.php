@@ -16,7 +16,7 @@ class shortcodeGenerator {
 		global $wpdb;
 		$wpdb->shortcodes = $wpdb->prefix . "shortcodes";
 		
-		define(SCG_VERSION,1.05);
+		define(SCG_VERSION,1.1);
 		define(SCG_ADMIN_PATH,get_option('siteurl').'/wp-admin/admin.php?page=shortcode-generator/admin/');
 		define(SCG_PREFIX_WYSIWYG,'');
 		define(SCG_PREFIX_HTML,'html_');
