@@ -3,7 +3,7 @@
 Plugin Name: Shortcode Generator
 Plugin URI: http://www.getson.info/shortcode-generator
 Description: Plugin for allowing you to create an unlimited number of shortcodes. Shortcodes are short, re-usable codes that are replaced with longer values. Great for embedding videos, maps, or keeping content synchronized across multiple pages. Shortcodes can contain other shortcodes, so the possibilities are endless! Comes with a shortcode widget for use in your sidebars. 
-Version: 1.1.0
+Version: 1.1
 Author: Kyle Getson
 Author URI: http://www.kylegetson.com
 */
