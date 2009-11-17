@@ -4,7 +4,7 @@ Donate link: http://getson.info/
 Tags: shortcodes, unlimited, split testing, widgets, cms, synchronize, wysiwyg, html
 Requires at least: 2.8.0
 Tested up to: 2.8.5
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 
 Generate as many shortcodes. Keep pages synchronized for split testing, or reuse a specific peice of code on multiple pages.
 
@@ -53,6 +53,8 @@ Shortcodes can contain other shortcodes. This allows for great custommization an
 4. Generated shortcode widget (allows multiple instances)
 
 == Changelog ==
+= 1.1.0 =
+* bug fixes for install
 
 = 1.0.0 =
 * Initial launch
